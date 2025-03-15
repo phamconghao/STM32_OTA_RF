@@ -1,0 +1,12 @@
+../Src/nrf24l01.c:7:13:write_register	16	static
+../Src/nrf24l01.c:15:16:read_register	24	static
+../Src/nrf24l01.c:27:13:write_register_multi	24	static
+../Src/nrf24l01.c:38:6:nrf24l01_init	24	static
+../Src/nrf24l01.c:64:6:nrf24l01_set_tx_mode	8	static
+../Src/nrf24l01.c:71:6:nrf24l01_set_rx_mode	8	static
+../Src/nrf24l01.c:79:6:nrf24l01_data_available	16	static
+../Src/nrf24l01.c:85:6:nrf24l01_send_data	24	static
+../Src/nrf24l01.c:103:6:nrf24l01_receive_data	32	static
+../Src/nrf24l01.c:119:6:nrf24l01_set_channel	16	static
+../Src/nrf24l01.c:125:6:nrf24l01_power_up	16	static
+../Src/nrf24l01.c:132:6:nrf24l01_power_down	16	static
